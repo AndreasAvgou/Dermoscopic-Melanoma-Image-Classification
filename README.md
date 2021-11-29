@@ -2,8 +2,15 @@
 ```
 Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?dl=0 
 ```
+# Libraries
+1. **_Python_** 3.7 and later
+2. **_Tensorflow_** 2.4 and later
+3. **_Keras_** 2.4 and later
+4. **_Numpy_** 1.19 and later
+5. **_Sklearn_** 0.22 and later
+6. **_Matplotlib_** 1.19 and later
 
-## Citing this work
+# Citing this work
 
 
 If you use the code or data in this package, please cite:
