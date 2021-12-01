@@ -7,12 +7,17 @@ Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?d
 ```
 # Libraries
 ```
-1. **_Python_** 3.7+
-2. **_Tensorflow_** 2.4+
-3. **_Keras_** 2.4+
-4. **_Numpy_** 1.19+
-5. **_Sklearn_** 0.22+
-6. **_Matplotlib_** 1.19+
+1. Python 3.7+
+2. Tensorflow 2.4+
+3. Keras 2.4+
+4. Numpy 1.19+
+5. Sklearn 0.22+
+6. Matplotlib 1.19+
+```
+# Cloud Tools
+```
+1. Google Drive(Free)
+2. Google Colab(Free)
 ```
 # Citing this work
 
