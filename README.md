@@ -19,6 +19,10 @@ Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?d
 1. Google Drive(Free)
 2. Google Colab(Free)
 ```
+###  Pip install libraries
+```
+pip install -r requirements.txt
+```
 # Citing this work
 
 
