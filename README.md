@@ -1,4 +1,4 @@
-# Convolution Neural Network code 
+# Convolution Neural Network
 ```
 Neural network for dermoscopic classification problems in melanoma images
 ```
