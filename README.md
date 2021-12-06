@@ -14,10 +14,10 @@ Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?d
 5. Sklearn>=0.22
 6. Matplotlib>=1.19
 ```
-# Cloud Tools
+# Free Cloud Tools
 ```
-1. Google Drive(Free)
-2. Google Colab(Free)
+1. Google Drive
+2. Google Colab
 ```
 #  Install libraries
 ```
