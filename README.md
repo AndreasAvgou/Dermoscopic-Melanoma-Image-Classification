@@ -5,7 +5,7 @@ Neural network for dermoscopic classification problems in melanoma images
 ```
 Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?dl=0 
 ```
-# Libraries
+### Libraries
 ```
 1. Python>=3.8
 2. Tensorflow>=2.6.1
@@ -14,16 +14,16 @@ Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?d
 5. Sklearn>=0.22
 6. Matplotlib>=1.19
 ```
-# Free Cloud Tools
+### Free Cloud Tools
 ```
 1. Google Drive
 2. Google Colab
 ```
-#  Install libraries
+###  Install libraries
 ```
 pip install -r requirements.txt
 ```
-# Citing this work
+### Citing this work
 
 
 If you use the code or data in this package, please cite:
