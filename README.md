@@ -1,6 +1,6 @@
-# Convolution Neural Network
+# Neural network for dermoscopic classification problems in melanoma images
 ```
-Neural network for dermoscopic classification problems in melanoma images
+
 ```
 ```
 Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?dl=0 
