@@ -1,4 +1,4 @@
-## Dermoscopic classification problem in melanoma images
+## Dermoscopic Melanoma Image Classification
 
 ## Problem Statement
 
