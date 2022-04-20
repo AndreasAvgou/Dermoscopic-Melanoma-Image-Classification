@@ -1,11 +1,26 @@
-## Neural network for dermoscopic classification problems in melanoma images
+## Dermoscopic classification problem in melanoma images
+
+## Problem Statement
+
+Melanoma is a serious form of skin cancer that begins in cells known as melanocytes. While it is less common than basal cell carcinoma (BCC) and squamous cell carcinoma (SCC), melanoma is more dangerous because of its ability to spread to other organs more rapidly if it is not treated at an early stage. The basic examination for melanoma is dermoscopy, an image modality of the skin part that is affected.
+
+## Object
+
+Our object was to create a new deep learning [approach](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification/blob/master/ConvolutionalNeuralNetwork.ipynb), based on convolutional neural networks, to classify dermoscopic images in one out of 32 categories.
+
+## Dataset
+
+You can find the dataset that was used in this [link](https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?dl=0)
+
+## Data Description
 ```
-Code : ConvolutionalNeuralNetwork.ipynb
+1) images: contains all the images 
+2) meta: contains the meta-data and suggested indexes to use for training/validation/testing.
+3) clinic/derm.html: shows all the clinical and dermoscopic images, respectively.
 ```
-```
-Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?dl=0 
-```
-### Libraries
+## Libraries
+
+All libraries that was used
 ```
 1. Python>=3.8
 2. Tensorflow>=2.6.1
@@ -14,17 +29,20 @@ Dataset : https://www.dropbox.com/sh/f506u2n7467em7g/AAB7xlB3Ozsmnyle7OS0FNYaa?d
 5. Sklearn>=0.22
 6. Matplotlib>=1.19
 ```
-### Free Cloud Tools
+## Cloud Tools
+
+All cloud tool that was used
 ```
 1. Google Drive
 2. Google Colab
 ```
-###  Install libraries
+##  Install libraries
+
+How to install all the necessary libraries using pip
 ```
 pip install -r requirements.txt
 ```
-### Citing this work
-
+## Citing this work
 
 If you use the code please cite:
 
