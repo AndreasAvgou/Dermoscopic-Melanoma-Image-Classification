@@ -1,5 +1,8 @@
 ## Dermoscopic Melanoma Image Classification
 
+![ne003_melanoma_img1_au](https://user-images.githubusercontent.com/22665704/164944605-768b58e7-2759-46f8-8ac0-4ce550d0bdea.jpg)
+
+
 ## Problem Statement
 
 Melanoma is a serious form of skin cancer that begins in cells known as melanocytes. While it is less common than basal cell carcinoma (BCC) and squamous cell carcinoma (SCC), melanoma is more dangerous because of its ability to spread to other organs more rapidly if it is not treated at an early stage. The basic examination for melanoma is dermoscopy, an image modality of the skin part that is affected.
