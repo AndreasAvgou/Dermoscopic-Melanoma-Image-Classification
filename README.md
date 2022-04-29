@@ -1,7 +1,6 @@
 ## Dermoscopic Melanoma Image Classification
 
-![image](https://user-images.githubusercontent.com/22665704/165958129-c2f2f4bf-b5fb-48df-9ad2-44999aec7be6.png)
-
+![image](https://user-images.githubusercontent.com/22665704/165974985-c92fd69e-8556-4737-bb25-80e749a8826b.png)
 
 ## Problem Statement
 
