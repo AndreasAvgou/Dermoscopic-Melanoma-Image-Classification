@@ -1,5 +1,5 @@
 Python == 3.8
-Tensorflow == 2.6.3
+Tensorflow == 2.7.2
 Keras == 2.7
 Numpy == 1.21
 Sklearn == 1.0
