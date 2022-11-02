@@ -1,4 +1,4 @@
-Python >= 3.8
+Python >= 3.6
 Tensorflow >= 2.7.2
 Keras >= 2.7
 Numpy >= 1.21
