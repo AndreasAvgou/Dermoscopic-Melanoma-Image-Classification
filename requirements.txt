@@ -1,6 +1,6 @@
-Python == 3.8
-Tensorflow == 2.7.2
-Keras == 2.7
-Numpy == 1.21
-Sklearn == 1.0
-Matplotlib == 1.2
+Python >= 3.8
+Tensorflow >= 2.7.2
+Keras >= 2.7
+Numpy >= 1.21
+Sklearn >= 1.0
+Matplotlib >= 1.2
