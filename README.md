@@ -24,12 +24,12 @@ You can find the dataset that was used in this [link](https://www.dropbox.com/sh
 
 All libraries that was used
 ```
-1. Python>=3.8
-2. Tensorflow>=2.6.1
-3. Keras>=2.4
-4. Numpy>=1.19
-5. Sklearn>=0.22
-6. Matplotlib>=1.19
+1. Python
+2. Tensorflow
+3. Keras
+4. Numpy
+5. Sklearn
+6. Matplotlib
 ```
 ## Cloud Tools
 
