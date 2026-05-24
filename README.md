@@ -1,6 +1,11 @@
-## Dermoscopic Melanoma Image Classification
+<div align="center">
+  
+ <img width="500" height="360" alt="AI-Tax-Collection" src="https://user-images.githubusercontent.com/22665704/165974985-c92fd69e-8556-4737-bb25-80e749a8826b.png" />
 
-![image](https://user-images.githubusercontent.com/22665704/165974985-c92fd69e-8556-4737-bb25-80e749a8826b.png)
+ # Dermoscopic Melanoma Image Classification
+  
+</div>
+
 
 ## Problem Statement
 
