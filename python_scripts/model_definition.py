@@ -2,9 +2,7 @@ import tensorflow as tf
 from tensorflow.keras import layers, Sequential
 
 def build_model(input_shape=(64, 64, 3), num_classes=34):
-    """
-    Defines the CNN architecture.
-    """
+   
     model = Sequential([
         layers.Conv2D(32, (3, 3), activation='relu', input_shape=input_shape),
         layers.MaxPooling2D((2, 2)),
