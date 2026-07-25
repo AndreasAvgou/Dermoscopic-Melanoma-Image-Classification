@@ -47,7 +47,5 @@ def main():
     plot_history(history)
 
 if __name__ == "__main__":
-    # Ensure Colab drive is mounted if running in Colab environment
-    # from google.colab import drive
-    # drive.mount('/content/drive')
+    
     main()
