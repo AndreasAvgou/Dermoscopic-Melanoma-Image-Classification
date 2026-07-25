@@ -1,9 +1,7 @@
 import tensorflow as tf
 
 def get_data_generators(data_root, image_shape=(64, 64), batch_size=32):
-    """
-    Creates training and validation data generators from a directory.
-    """
+    
     image_generator = tf.keras.preprocessing.image.ImageDataGenerator(
         validation_split=0.3, 
         rescale=1/255
