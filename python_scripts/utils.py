@@ -2,9 +2,7 @@ import tensorflow as tf
 import matplotlib.pylab as plt
 
 class CollectBatchStats(tf.keras.callbacks.Callback):
-    """
-    Callback to collect metrics after every batch.
-    """
+    
     def __init__(self):
         self.batch_losses = []
         self.batch_acc = []
