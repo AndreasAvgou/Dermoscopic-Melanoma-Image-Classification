@@ -13,7 +13,7 @@ Melanoma is a serious form of skin cancer that begins in cells known as melanocy
 
 ## Object
 
-Our object was to create a new deep learning [approach](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification/blob/master/ConvolutionalNeuralNetwork.ipynb), based on convolutional neural networks, to classify dermoscopic images in one out of 32 categories.
+Our object was to create a new deep learning approach, based on convolutional neural networks, to classify dermoscopic images in one out of 32 categories.
 
 ## Dataset
 
