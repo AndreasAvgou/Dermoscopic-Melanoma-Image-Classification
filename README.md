@@ -49,7 +49,7 @@ How to install all the necessary libraries using pip
 ```
 pip install -r requirements.txt
 ```
-## Citing this work
+# Citing this work
 
 If you use the code please cite:
 
